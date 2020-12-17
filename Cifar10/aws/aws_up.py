@@ -8,8 +8,8 @@ if __name__ == '__main__':
     object_dir = './cifar10_objects'
 
 
-    s3 = boto3.client('s3', aws_access_key_id='AKIAJACOHPLSK5Z2Q7KA',
-                      aws_secret_access_key='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')
+    s3 = boto3.client('s3', aws_access_key_id='xx',
+                      aws_secret_access_key='xx')
 
     i = 0
     while i < 50000:
