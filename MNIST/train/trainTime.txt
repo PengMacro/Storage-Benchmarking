@@ -1,0 +1,880 @@
+
+Checking accuracy on validation set
+Got 9540 / 10000 correct 95.40
+Epoch 0 training loss: 0.21533936775050352
+
+Checking accuracy on validation set
+Got 9727 / 10000 correct 97.27
+Epoch 1 training loss: 0.11937149269452184
+
+Checking accuracy on validation set
+Got 9714 / 10000 correct 97.14
+Epoch 2 training loss: 0.09975667360456292
+
+Checking accuracy on validation set
+Got 9723 / 10000 correct 97.23
+Epoch 3 training loss: 0.09268431782481852
+
+Checking accuracy on validation set
+Got 9722 / 10000 correct 97.22
+Epoch 4 training loss: 0.08571196828991004
+local, batch size: 1, worker: 1
+end-to-end training time: 1506.1342327594757s
+
+Checking accuracy on validation set
+Got 9554 / 10000 correct 95.54
+Epoch 0 training loss: 0.21655640302857562
+
+Checking accuracy on validation set
+Got 9737 / 10000 correct 97.37
+Epoch 1 training loss: 0.11462414595907061
+
+Checking accuracy on validation set
+Got 9757 / 10000 correct 97.57
+Epoch 2 training loss: 0.09594396561258835
+
+Checking accuracy on validation set
+Got 9684 / 10000 correct 96.84
+Epoch 3 training loss: 0.08830782646916557
+
+Checking accuracy on validation set
+Got 9749 / 10000 correct 97.49
+Epoch 4 training loss: 0.08468535981230456
+local, batch size: 1, worker: 2
+end-to-end training time: 1473.8628091812134s
+
+Checking accuracy on validation set
+Got 9620 / 10000 correct 96.20
+Epoch 0 training loss: 0.21589091295890953
+
+Checking accuracy on validation set
+Got 9703 / 10000 correct 97.03
+Epoch 1 training loss: 0.11877806539032701
+
+Checking accuracy on validation set
+Got 9722 / 10000 correct 97.22
+Epoch 2 training loss: 0.09826075109092358
+
+Checking accuracy on validation set
+Got 9694 / 10000 correct 96.94
+Epoch 3 training loss: 0.09320250649589196
+
+Checking accuracy on validation set
+Got 9765 / 10000 correct 97.65
+Epoch 4 training loss: 0.08291165243411269
+local, batch size: 1, worker: 3
+end-to-end training time: 1473.7946553230286s
+
+Checking accuracy on validation set
+Got 9670 / 10000 correct 96.70
+Epoch 0 training loss: 0.2196683675917263
+
+Checking accuracy on validation set
+Got 9639 / 10000 correct 96.39
+Epoch 1 training loss: 0.12024139551745028
+
+Checking accuracy on validation set
+Got 9713 / 10000 correct 97.13
+Epoch 2 training loss: 0.1029292256911158
+
+Checking accuracy on validation set
+Got 9726 / 10000 correct 97.26
+Epoch 3 training loss: 0.09383985391921151
+
+Checking accuracy on validation set
+Got 9754 / 10000 correct 97.54
+Epoch 4 training loss: 0.08864286234230782
+local, batch size: 1, worker: 4
+end-to-end training time: 1481.9562282562256s
+
+Checking accuracy on validation set
+Got 9709 / 10000 correct 97.09
+Epoch 0 training loss: 0.20319264764959225
+
+Checking accuracy on validation set
+Got 9753 / 10000 correct 97.53
+Epoch 1 training loss: 0.09727386070938723
+
+Checking accuracy on validation set
+Got 9754 / 10000 correct 97.54
+Epoch 2 training loss: 0.0742992994378449
+
+Checking accuracy on validation set
+Got 9816 / 10000 correct 98.16
+Epoch 3 training loss: 0.06222899630558095
+
+Checking accuracy on validation set
+Got 9785 / 10000 correct 97.85
+Epoch 4 training loss: 0.055490630445107526
+local, batch size: 4, worker: 1
+end-to-end training time: 425.93847489356995s
+
+Checking accuracy on validation set
+Got 9702 / 10000 correct 97.02
+Epoch 0 training loss: 0.19889622848862548
+
+Checking accuracy on validation set
+Got 9743 / 10000 correct 97.43
+Epoch 1 training loss: 0.09219155637565302
+
+Checking accuracy on validation set
+Got 9789 / 10000 correct 97.89
+Epoch 2 training loss: 0.07363612849526631
+
+Checking accuracy on validation set
+Got 9814 / 10000 correct 98.14
+Epoch 3 training loss: 0.061604746160950456
+
+Checking accuracy on validation set
+Got 9832 / 10000 correct 98.32
+Epoch 4 training loss: 0.055789596166152186
+local, batch size: 4, worker: 2
+end-to-end training time: 432.1242663860321s
+
+Checking accuracy on validation set
+Got 9721 / 10000 correct 97.21
+Epoch 0 training loss: 0.20326078710630185
+
+Checking accuracy on validation set
+Got 9720 / 10000 correct 97.20
+Epoch 1 training loss: 0.094719348979622
+
+Checking accuracy on validation set
+Got 9772 / 10000 correct 97.72
+Epoch 2 training loss: 0.07693239596174448
+
+Checking accuracy on validation set
+Got 9786 / 10000 correct 97.86
+Epoch 3 training loss: 0.06405902616342311
+
+Checking accuracy on validation set
+Got 9780 / 10000 correct 97.80
+Epoch 4 training loss: 0.058482171668521626
+local, batch size: 4, worker: 3
+end-to-end training time: 442.98416805267334s
+
+Checking accuracy on validation set
+Got 9706 / 10000 correct 97.06
+Epoch 0 training loss: 0.20012684126167327
+
+Checking accuracy on validation set
+Got 9734 / 10000 correct 97.34
+Epoch 1 training loss: 0.09348465485563967
+
+Checking accuracy on validation set
+Got 9787 / 10000 correct 97.87
+Epoch 2 training loss: 0.07388845371454314
+
+Checking accuracy on validation set
+Got 9778 / 10000 correct 97.78
+Epoch 3 training loss: 0.06387941402439858
+
+Checking accuracy on validation set
+Got 9823 / 10000 correct 98.23
+Epoch 4 training loss: 0.05771957138514757
+local, batch size: 4, worker: 4
+end-to-end training time: 451.9152584075928s
+
+Checking accuracy on validation set
+Got 9692 / 10000 correct 96.92
+Epoch 0 training loss: 0.22992386453308164
+
+Checking accuracy on validation set
+Got 9775 / 10000 correct 97.75
+Epoch 1 training loss: 0.08555220688870177
+
+Checking accuracy on validation set
+Got 9765 / 10000 correct 97.65
+Epoch 2 training loss: 0.058768273352812976
+
+Checking accuracy on validation set
+Got 9797 / 10000 correct 97.97
+Epoch 3 training loss: 0.04660062280758284
+
+Checking accuracy on validation set
+Got 9845 / 10000 correct 98.45
+Epoch 4 training loss: 0.03829047060173005
+local, batch size: 16, worker: 1
+end-to-end training time: 124.30133056640625s
+
+Checking accuracy on validation set
+Got 9683 / 10000 correct 96.83
+Epoch 0 training loss: 0.22003443413317203
+
+Checking accuracy on validation set
+Got 9796 / 10000 correct 97.96
+Epoch 1 training loss: 0.08159884951228276
+
+Checking accuracy on validation set
+Got 9830 / 10000 correct 98.30
+Epoch 2 training loss: 0.05838705472304486
+
+Checking accuracy on validation set
+Got 9787 / 10000 correct 97.87
+Epoch 3 training loss: 0.0445061701469915
+
+Checking accuracy on validation set
+Got 9825 / 10000 correct 98.25
+Epoch 4 training loss: 0.03833866067497991
+local, batch size: 16, worker: 2
+end-to-end training time: 128.5265839099884s
+
+Checking accuracy on validation set
+Got 9715 / 10000 correct 97.15
+Epoch 0 training loss: 0.22998543740719557
+
+Checking accuracy on validation set
+Got 9779 / 10000 correct 97.79
+Epoch 1 training loss: 0.09183492632027715
+
+Checking accuracy on validation set
+Got 9802 / 10000 correct 98.02
+Epoch 2 training loss: 0.06583663154145702
+
+Checking accuracy on validation set
+Got 9784 / 10000 correct 97.84
+Epoch 3 training loss: 0.05132605325261131
+
+Checking accuracy on validation set
+Got 9810 / 10000 correct 98.10
+Epoch 4 training loss: 0.04270798589807004
+local, batch size: 16, worker: 3
+end-to-end training time: 126.76466727256775s
+
+Checking accuracy on validation set
+Got 9713 / 10000 correct 97.13
+Epoch 0 training loss: 0.23998960445962847
+
+Checking accuracy on validation set
+Got 9783 / 10000 correct 97.83
+Epoch 1 training loss: 0.08823984735824168
+
+Checking accuracy on validation set
+Got 9770 / 10000 correct 97.70
+Epoch 2 training loss: 0.06390132995115592
+
+Checking accuracy on validation set
+Got 9810 / 10000 correct 98.10
+Epoch 3 training loss: 0.050342613846678284
+
+Checking accuracy on validation set
+Got 9826 / 10000 correct 98.26
+Epoch 4 training loss: 0.04083437958392314
+local, batch size: 16, worker: 4
+end-to-end training time: 126.94945526123047s
+
+Checking accuracy on validation set
+Got 9630 / 10000 correct 96.30
+Epoch 0 training loss: 0.3253128282068407
+
+Checking accuracy on validation set
+Got 9736 / 10000 correct 97.36
+Epoch 1 training loss: 0.10109352329126595
+
+Checking accuracy on validation set
+Got 9751 / 10000 correct 97.51
+Epoch 2 training loss: 0.06718531321428116
+
+Checking accuracy on validation set
+Got 9818 / 10000 correct 98.18
+Epoch 3 training loss: 0.05256339675470558
+
+Checking accuracy on validation set
+Got 9768 / 10000 correct 97.68
+Epoch 4 training loss: 0.04066272140578831
+local, batch size: 64, worker: 1
+end-to-end training time: 59.67034697532654s
+
+Checking accuracy on validation set
+Got 9646 / 10000 correct 96.46
+Epoch 0 training loss: 0.3148350949087145
+
+Checking accuracy on validation set
+Got 9776 / 10000 correct 97.76
+Epoch 1 training loss: 0.09852796591356244
+
+Checking accuracy on validation set
+Got 9780 / 10000 correct 97.80
+Epoch 2 training loss: 0.06610688456879629
+
+Checking accuracy on validation set
+Got 9836 / 10000 correct 98.36
+Epoch 3 training loss: 0.04965958165411559
+
+Checking accuracy on validation set
+Got 9809 / 10000 correct 98.09
+Epoch 4 training loss: 0.04016791076509251
+local, batch size: 64, worker: 2
+end-to-end training time: 46.53733253479004s
+
+Checking accuracy on validation set
+Got 9619 / 10000 correct 96.19
+Epoch 0 training loss: 0.32567701017117257
+
+Checking accuracy on validation set
+Got 9740 / 10000 correct 97.40
+Epoch 1 training loss: 0.10439276507438715
+
+Checking accuracy on validation set
+Got 9806 / 10000 correct 98.06
+Epoch 2 training loss: 0.06948251120896196
+
+Checking accuracy on validation set
+Got 9809 / 10000 correct 98.09
+Epoch 3 training loss: 0.05180195755059676
+
+Checking accuracy on validation set
+Got 9810 / 10000 correct 98.10
+Epoch 4 training loss: 0.040530470033150044
+local, batch size: 64, worker: 3
+end-to-end training time: 50.13978433609009s
+
+Checking accuracy on validation set
+Got 9611 / 10000 correct 96.11
+Epoch 0 training loss: 0.32295582248636373
+
+Checking accuracy on validation set
+Got 9720 / 10000 correct 97.20
+Epoch 1 training loss: 0.10015722008331505
+
+Checking accuracy on validation set
+Got 9803 / 10000 correct 98.03
+Epoch 2 training loss: 0.06623073623788393
+
+Checking accuracy on validation set
+Got 9824 / 10000 correct 98.24
+Epoch 3 training loss: 0.05048814946023361
+
+Checking accuracy on validation set
+Got 9831 / 10000 correct 98.31
+Epoch 4 training loss: 0.038942280798897985
+local, batch size: 64, worker: 4
+end-to-end training time: 44.947782039642334s
+
+Checking accuracy on validation set
+Got 9386 / 10000 correct 93.86
+Epoch 0 training loss: 0.590790400623667
+
+Checking accuracy on validation set
+Got 9645 / 10000 correct 96.45
+Epoch 1 training loss: 0.17912063473949627
+
+Checking accuracy on validation set
+Got 9738 / 10000 correct 97.38
+Epoch 2 training loss: 0.11193826536134797
+
+Checking accuracy on validation set
+Got 9761 / 10000 correct 97.61
+Epoch 3 training loss: 0.0806657245230614
+
+Checking accuracy on validation set
+Got 9800 / 10000 correct 98.00
+Epoch 4 training loss: 0.0631535076821337
+local, batch size: 256, worker: 1
+end-to-end training time: 59.248581409454346s
+
+Checking accuracy on validation set
+Got 9363 / 10000 correct 93.63
+Epoch 0 training loss: 0.5893663058475572
+
+Checking accuracy on validation set
+Got 9572 / 10000 correct 95.72
+Epoch 1 training loss: 0.18487574570641227
+
+Checking accuracy on validation set
+Got 9732 / 10000 correct 97.32
+Epoch 2 training loss: 0.11632175908937138
+
+Checking accuracy on validation set
+Got 9756 / 10000 correct 97.56
+Epoch 3 training loss: 0.08341229824843455
+
+Checking accuracy on validation set
+Got 9790 / 10000 correct 97.90
+Epoch 4 training loss: 0.06579983034836394
+local, batch size: 256, worker: 2
+end-to-end training time: 31.300360202789307s
+
+Checking accuracy on validation set
+Got 9383 / 10000 correct 93.83
+Epoch 0 training loss: 0.5898677090905151
+
+Checking accuracy on validation set
+Got 9594 / 10000 correct 95.94
+Epoch 1 training loss: 0.18311493722151737
+
+Checking accuracy on validation set
+Got 9668 / 10000 correct 96.68
+Epoch 2 training loss: 0.11866063149455859
+
+Checking accuracy on validation set
+Got 9781 / 10000 correct 97.81
+Epoch 3 training loss: 0.08577259880851726
+
+Checking accuracy on validation set
+Got 9780 / 10000 correct 97.80
+Epoch 4 training loss: 0.06684189804886677
+local, batch size: 256, worker: 3
+end-to-end training time: 27.552758932113647s
+
+Checking accuracy on validation set
+Got 9388 / 10000 correct 93.88
+Epoch 0 training loss: 0.5838236275832264
+
+Checking accuracy on validation set
+Got 9650 / 10000 correct 96.50
+Epoch 1 training loss: 0.17634431014255603
+
+Checking accuracy on validation set
+Got 9730 / 10000 correct 97.30
+Epoch 2 training loss: 0.11077612032163509
+
+Checking accuracy on validation set
+Got 9777 / 10000 correct 97.77
+Epoch 3 training loss: 0.08140373675684844
+
+Checking accuracy on validation set
+Got 9785 / 10000 correct 97.85
+Epoch 4 training loss: 0.0648747483002288
+local, batch size: 256, worker: 4
+end-to-end training time: 26.698132276535034s
+
+Checking accuracy on validation set
+Got 9664 / 10000 correct 96.64
+Epoch 0 training loss: 0.227174779835058
+
+Checking accuracy on validation set
+Got 9708 / 10000 correct 97.08
+Epoch 1 training loss: 0.12164822268809831
+
+Checking accuracy on validation set
+Got 9745 / 10000 correct 97.45
+Epoch 2 training loss: 0.10167493025061927
+
+Checking accuracy on validation set
+Got 9750 / 10000 correct 97.50
+Epoch 3 training loss: 0.09118105777427284
+
+Checking accuracy on validation set
+Got 9731 / 10000 correct 97.31
+Epoch 4 training loss: 0.08589330509290401
+redis, batch size: 1, worker: 1
+end-to-end training time: 1483.605861902237s
+
+Checking accuracy on validation set
+Got 9628 / 10000 correct 96.28
+Epoch 0 training loss: 0.21705217157261428
+
+Checking accuracy on validation set
+Got 9732 / 10000 correct 97.32
+Epoch 1 training loss: 0.12131184729962946
+
+Checking accuracy on validation set
+Got 9697 / 10000 correct 96.97
+Epoch 2 training loss: 0.10439832525389071
+
+Checking accuracy on validation set
+Got 9714 / 10000 correct 97.14
+Epoch 3 training loss: 0.09450400333962104
+
+Checking accuracy on validation set
+Got 9666 / 10000 correct 96.66
+Epoch 4 training loss: 0.08883210454902954
+redis, batch size: 1, worker: 2
+end-to-end training time: 1502.173148393631s
+
+Checking accuracy on validation set
+Got 9647 / 10000 correct 96.47
+Epoch 0 training loss: 0.2178973024962025
+
+Checking accuracy on validation set
+Got 9725 / 10000 correct 97.25
+Epoch 1 training loss: 0.12210812929759773
+
+Checking accuracy on validation set
+Got 9721 / 10000 correct 97.21
+Epoch 2 training loss: 0.10161340014865652
+
+Checking accuracy on validation set
+Got 9712 / 10000 correct 97.12
+Epoch 3 training loss: 0.09333725621708618
+
+Checking accuracy on validation set
+Got 9716 / 10000 correct 97.16
+Epoch 4 training loss: 0.084367492069702
+redis, batch size: 1, worker: 3
+end-to-end training time: 1462.7640120983124s
+
+Checking accuracy on validation set
+Got 9666 / 10000 correct 96.66
+Epoch 0 training loss: 0.21569888230906847
+
+Checking accuracy on validation set
+Got 9723 / 10000 correct 97.23
+Epoch 1 training loss: 0.11263309921668786
+
+Checking accuracy on validation set
+Got 9745 / 10000 correct 97.45
+Epoch 2 training loss: 0.0986554773820024
+
+Checking accuracy on validation set
+Got 9762 / 10000 correct 97.62
+Epoch 3 training loss: 0.0934442839430934
+
+Checking accuracy on validation set
+Got 9766 / 10000 correct 97.66
+Epoch 4 training loss: 0.08311899697073682
+redis, batch size: 1, worker: 4
+end-to-end training time: 1487.0528469085693s
+
+Checking accuracy on validation set
+Got 9685 / 10000 correct 96.85
+Epoch 0 training loss: 0.20255174451465485
+
+Checking accuracy on validation set
+Got 9731 / 10000 correct 97.31
+Epoch 1 training loss: 0.09482133278393652
+
+Checking accuracy on validation set
+Got 9760 / 10000 correct 97.60
+Epoch 2 training loss: 0.07321291244026942
+
+Checking accuracy on validation set
+Got 9777 / 10000 correct 97.77
+Epoch 3 training loss: 0.06425320785475866
+
+Checking accuracy on validation set
+Got 9789 / 10000 correct 97.89
+Epoch 4 training loss: 0.05674245501090132
+redis, batch size: 4, worker: 1
+end-to-end training time: 460.75012278556824s
+
+Checking accuracy on validation set
+Got 9686 / 10000 correct 96.86
+Epoch 0 training loss: 0.20008845549839316
+
+Checking accuracy on validation set
+Got 9742 / 10000 correct 97.42
+Epoch 1 training loss: 0.09411189281770029
+
+Checking accuracy on validation set
+Got 9785 / 10000 correct 97.85
+Epoch 2 training loss: 0.07509536730355525
+
+Checking accuracy on validation set
+Got 9798 / 10000 correct 97.98
+Epoch 3 training loss: 0.061195412099643874
+
+Checking accuracy on validation set
+Got 9806 / 10000 correct 98.06
+Epoch 4 training loss: 0.055919283796446395
+redis, batch size: 4, worker: 2
+end-to-end training time: 469.44655108451843s
+
+Checking accuracy on validation set
+Got 9677 / 10000 correct 96.77
+Epoch 0 training loss: 0.20450659572415752
+
+Checking accuracy on validation set
+Got 9728 / 10000 correct 97.28
+Epoch 1 training loss: 0.09690089873948717
+
+Checking accuracy on validation set
+Got 9758 / 10000 correct 97.58
+Epoch 2 training loss: 0.07437784534920822
+
+Checking accuracy on validation set
+Got 9765 / 10000 correct 97.65
+Epoch 3 training loss: 0.06831114566589691
+
+Checking accuracy on validation set
+Got 9792 / 10000 correct 97.92
+Epoch 4 training loss: 0.05812496591023577
+redis, batch size: 4, worker: 3
+end-to-end training time: 470.63430976867676s
+
+Checking accuracy on validation set
+Got 9706 / 10000 correct 97.06
+Epoch 0 training loss: 0.20321015430663827
+
+Checking accuracy on validation set
+Got 9741 / 10000 correct 97.41
+Epoch 1 training loss: 0.09565230971347424
+
+Checking accuracy on validation set
+Got 9780 / 10000 correct 97.80
+Epoch 2 training loss: 0.0745046478706802
+
+Checking accuracy on validation set
+Got 9776 / 10000 correct 97.76
+Epoch 3 training loss: 0.06393604515429804
+
+Checking accuracy on validation set
+Got 9749 / 10000 correct 97.49
+Epoch 4 training loss: 0.05785756140737125
+redis, batch size: 4, worker: 4
+end-to-end training time: 486.97295355796814s
+
+Checking accuracy on validation set
+Got 9711 / 10000 correct 97.11
+Epoch 0 training loss: 0.23103754527948797
+
+Checking accuracy on validation set
+Got 9755 / 10000 correct 97.55
+Epoch 1 training loss: 0.08831089559268207
+
+Checking accuracy on validation set
+Got 9797 / 10000 correct 97.97
+Epoch 2 training loss: 0.06301032890072092
+
+Checking accuracy on validation set
+Got 9828 / 10000 correct 98.28
+Epoch 3 training loss: 0.04860072338079102
+
+Checking accuracy on validation set
+Got 9785 / 10000 correct 97.85
+Epoch 4 training loss: 0.039078709628672804
+redis, batch size: 16, worker: 1
+end-to-end training time: 191.14807176589966s
+
+Checking accuracy on validation set
+Got 9691 / 10000 correct 96.91
+Epoch 0 training loss: 0.23254861008010805
+
+Checking accuracy on validation set
+Got 9756 / 10000 correct 97.56
+Epoch 1 training loss: 0.08981459707837552
+
+Checking accuracy on validation set
+Got 9802 / 10000 correct 98.02
+Epoch 2 training loss: 0.06497468161492609
+
+Checking accuracy on validation set
+Got 9798 / 10000 correct 97.98
+Epoch 3 training loss: 0.0510593603437813
+
+Checking accuracy on validation set
+Got 9828 / 10000 correct 98.28
+Epoch 4 training loss: 0.04394327445530333
+redis, batch size: 16, worker: 2
+end-to-end training time: 131.74142718315125s
+
+Checking accuracy on validation set
+Got 9698 / 10000 correct 96.98
+Epoch 0 training loss: 0.2299482319688052
+
+Checking accuracy on validation set
+Got 9783 / 10000 correct 97.83
+Epoch 1 training loss: 0.08619457873113454
+
+Checking accuracy on validation set
+Got 9807 / 10000 correct 98.07
+Epoch 2 training loss: 0.06265731309507973
+
+Checking accuracy on validation set
+Got 9820 / 10000 correct 98.20
+Epoch 3 training loss: 0.04810935575498268
+
+Checking accuracy on validation set
+Got 9854 / 10000 correct 98.54
+Epoch 4 training loss: 0.041360141688343136
+redis, batch size: 16, worker: 3
+end-to-end training time: 129.56519675254822s
+
+Checking accuracy on validation set
+Got 9707 / 10000 correct 97.07
+Epoch 0 training loss: 0.22276331353470682
+
+Checking accuracy on validation set
+Got 9768 / 10000 correct 97.68
+Epoch 1 training loss: 0.08251453913694247
+
+Checking accuracy on validation set
+Got 9802 / 10000 correct 98.02
+Epoch 2 training loss: 0.05831061045904644
+
+Checking accuracy on validation set
+Got 9826 / 10000 correct 98.26
+Epoch 3 training loss: 0.04578596797099803
+
+Checking accuracy on validation set
+Got 9841 / 10000 correct 98.41
+Epoch 4 training loss: 0.03947410663943738
+redis, batch size: 16, worker: 4
+end-to-end training time: 129.2715528011322s
+
+Checking accuracy on validation set
+Got 9670 / 10000 correct 96.70
+Epoch 0 training loss: 0.32271799525422284
+
+Checking accuracy on validation set
+Got 9752 / 10000 correct 97.52
+Epoch 1 training loss: 0.10451724810425735
+
+Checking accuracy on validation set
+Got 9781 / 10000 correct 97.81
+Epoch 2 training loss: 0.0681378556548825
+
+Checking accuracy on validation set
+Got 9814 / 10000 correct 98.14
+Epoch 3 training loss: 0.050888074121302196
+
+Checking accuracy on validation set
+Got 9825 / 10000 correct 98.25
+Epoch 4 training loss: 0.03910911533579021
+redis, batch size: 64, worker: 1
+end-to-end training time: 205.67167019844055s
+
+Checking accuracy on validation set
+Got 9653 / 10000 correct 96.53
+Epoch 0 training loss: 0.3298487237814214
+
+Checking accuracy on validation set
+Got 9759 / 10000 correct 97.59
+Epoch 1 training loss: 0.10465041973659069
+
+Checking accuracy on validation set
+Got 9808 / 10000 correct 98.08
+Epoch 2 training loss: 0.06886737518872389
+
+Checking accuracy on validation set
+Got 9822 / 10000 correct 98.22
+Epoch 3 training loss: 0.05051015686976802
+
+Checking accuracy on validation set
+Got 9838 / 10000 correct 98.38
+Epoch 4 training loss: 0.04219911396792254
+redis, batch size: 64, worker: 2
+end-to-end training time: 93.33134937286377s
+
+Checking accuracy on validation set
+Got 9636 / 10000 correct 96.36
+Epoch 0 training loss: 0.32185687814765346
+
+Checking accuracy on validation set
+Got 9693 / 10000 correct 96.93
+Epoch 1 training loss: 0.10266546383464371
+
+Checking accuracy on validation set
+Got 9805 / 10000 correct 98.05
+Epoch 2 training loss: 0.06599027008715007
+
+Checking accuracy on validation set
+Got 9815 / 10000 correct 98.15
+Epoch 3 training loss: 0.0509119468432663
+
+Checking accuracy on validation set
+Got 9818 / 10000 correct 98.18
+Epoch 4 training loss: 0.038669907601366814
+redis, batch size: 64, worker: 3
+end-to-end training time: 63.20451307296753s
+
+Checking accuracy on validation set
+Got 9665 / 10000 correct 96.65
+Epoch 0 training loss: 0.32689742013440487
+
+Checking accuracy on validation set
+Got 9757 / 10000 correct 97.57
+Epoch 1 training loss: 0.10176554056541885
+
+Checking accuracy on validation set
+Got 9792 / 10000 correct 97.92
+Epoch 2 training loss: 0.06751665383633322
+
+Checking accuracy on validation set
+Got 9811 / 10000 correct 98.11
+Epoch 3 training loss: 0.0505954376630285
+
+Checking accuracy on validation set
+Got 9796 / 10000 correct 97.96
+Epoch 4 training loss: 0.04191192009639891
+redis, batch size: 64, worker: 4
+end-to-end training time: 52.530597448349s
+
+Checking accuracy on validation set
+Got 9371 / 10000 correct 93.71
+Epoch 0 training loss: 0.6001621420134087
+
+Checking accuracy on validation set
+Got 9627 / 10000 correct 96.27
+Epoch 1 training loss: 0.1791800169312224
+
+Checking accuracy on validation set
+Got 9733 / 10000 correct 97.33
+Epoch 2 training loss: 0.11236829173808195
+
+Checking accuracy on validation set
+Got 9782 / 10000 correct 97.82
+Epoch 3 training loss: 0.07907369951432457
+
+Checking accuracy on validation set
+Got 9811 / 10000 correct 98.11
+Epoch 4 training loss: 0.06311672586681587
+redis, batch size: 256, worker: 1
+end-to-end training time: 196.7625994682312s
+
+Checking accuracy on validation set
+Got 9393 / 10000 correct 93.93
+Epoch 0 training loss: 0.5668818993988086
+
+Checking accuracy on validation set
+Got 9595 / 10000 correct 95.95
+Epoch 1 training loss: 0.178033069992552
+
+Checking accuracy on validation set
+Got 9726 / 10000 correct 97.26
+Epoch 2 training loss: 0.1130872600122678
+
+Checking accuracy on validation set
+Got 9765 / 10000 correct 97.65
+Epoch 3 training loss: 0.08291636051477067
+
+Checking accuracy on validation set
+Got 9782 / 10000 correct 97.82
+Epoch 4 training loss: 0.06378950998757263
+redis, batch size: 256, worker: 2
+end-to-end training time: 94.57693600654602s
+
+Checking accuracy on validation set
+Got 9401 / 10000 correct 94.01
+Epoch 0 training loss: 0.5760700939109131
+
+Checking accuracy on validation set
+Got 9638 / 10000 correct 96.38
+Epoch 1 training loss: 0.17632837821634448
+
+Checking accuracy on validation set
+Got 9707 / 10000 correct 97.07
+Epoch 2 training loss: 0.11354110218888643
+
+Checking accuracy on validation set
+Got 9763 / 10000 correct 97.63
+Epoch 3 training loss: 0.08406869304955614
+
+Checking accuracy on validation set
+Got 9786 / 10000 correct 97.86
+Epoch 4 training loss: 0.0680771193904232
+redis, batch size: 256, worker: 3
+end-to-end training time: 64.9235327243805s
+
+Checking accuracy on validation set
+Got 9388 / 10000 correct 93.88
+Epoch 0 training loss: 0.5692246307675936
+
+Checking accuracy on validation set
+Got 9634 / 10000 correct 96.34
+Epoch 1 training loss: 0.17668649835550054
+
+Checking accuracy on validation set
+Got 9716 / 10000 correct 97.16
+Epoch 2 training loss: 0.11658090634309516
+
+Checking accuracy on validation set
+Got 9772 / 10000 correct 97.72
+Epoch 3 training loss: 0.08634917251765728
+
+Checking accuracy on validation set
+Got 9796 / 10000 correct 97.96
+Epoch 4 training loss: 0.06923963376605997
+redis, batch size: 256, worker: 4
+end-to-end training time: 49.13245987892151s

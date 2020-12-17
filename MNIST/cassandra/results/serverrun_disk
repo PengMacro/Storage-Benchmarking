@@ -1,0 +1,51 @@
+clear cache
+blob time
+clear cache
+blob time
+85.9766619205
+90.4089479446
+87.8379759789
+86.8462350368
+89.6110181808
+raw time
+193.137541056
+190.544002056
+195.112933159
+190.113164186
+191.75612998
+pickle time
+('download time: ', 95.16933584213257)
+('deserailze time: ', 50.676427125930786)
+('download time: ', 88.32139110565186)
+('deserailze time: ', 49.64382600784302)
+('download time: ', 89.07919001579285)
+('deserailze time: ', 50.261038064956665)
+('download time: ', 86.83293509483337)
+('deserailze time: ', 52.40693497657776)
+('download time: ', 90.6115710735321)
+('deserailze time: ', 51.11404800415039)
+
+not clear cache
+blob time
+84.1407032013
+88.7669539452
+90.4340639114
+83.5938818455
+83.3155910969
+raw time
+193.317179918
+186.64636898
+182.537196875
+188.044479132
+184.121462822
+pickle time
+('download time: ', 83.79332900047302)
+('deserailze time: ', 51.188276052474976)
+('download time: ', 85.47690296173096)
+('deserailze time: ', 51.726073026657104)
+('download time: ', 82.6685140132904)
+('deserailze time: ', 49.98278999328613)
+('download time: ', 83.62385106086731)
+('deserailze time: ', 49.96069097518921)
+('download time: ', 83.13569784164429)
+('deserailze time: ', 50.76387691497803)

@@ -1,0 +1,36 @@
+cd /home
+wget http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+wget http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
+gunzip train-images-idx3-ubyte.gz
+gunzip train-labels-idx1-ubyte.gz
+mkdir mnist_objects
+yum install -y python3-pip
+sudo pip3 install --upgrade pip
+sudo pip3 install python-mnist
+vim parse.py
+
+import os
+from mnist import MNIST
+import pickle
+
+if __name__ == '__main__':
+    object_dir = './mnist_objects'
+    raw = MNIST('./')
+    images, labels = raw.load_training()
+    i = 0
+    while i < 60000:
+        filename = "img" + str(i)
+        sample = {'img': images[i], 'label': labels[i]}
+    
+        with open(os.path.join(object_dir, filename), 'wb') as file:
+            pickle.dump(sample, file)
+            i += 1
+
+python3 parse.py
+
+rm -f train-images-idx3-ubyte train-labels-idx1-ubyte
+touch m_up.py m_down.py
+chmod 777 ./m_up.py ./m_down.py
+
+
+
